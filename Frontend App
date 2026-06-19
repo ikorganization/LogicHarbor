@@ -1,0 +1,12 @@
+### 4. Frontend App
+```markdown
+# Frontend App 🎨
+
+## Tech Stack
+- React
+- Tailwind
+
+## Start
+```bash
+npm install
+npm run dev
