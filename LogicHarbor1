@@ -1,0 +1,14 @@
+### 3. API Project
+```markdown
+# API Service
+
+## Overview
+REST API for managing resources.
+
+## Endpoints
+- GET /items
+- POST /items
+
+## Run Locally
+```bash
+docker-compose up
